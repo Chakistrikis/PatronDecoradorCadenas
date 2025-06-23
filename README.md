@@ -1,6 +1,6 @@
 # Proyecto Cadenas con Patron Decorador (Patrones de Diseño - UAM Azc)
 
- - Este proyecto implementa decoraciones (*, -, *) a la cadena ingresada por el usuario.
+ - Este proyecto implementa decoraciones (*, -, =) a la cadena ingresada por el usuario.
 ---
 
 ## 📐 Patrón de Diseño: Patron Decorador + MVC
