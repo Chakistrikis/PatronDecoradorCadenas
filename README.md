@@ -27,7 +27,7 @@ Contiene el punto de entrada del programa.
 
 ---
 
-##📁 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 ```
 src/
@@ -44,11 +44,6 @@ src/
     └── Main.java
 ```
 
-📝Notas Adicionales
-
- - El programa está implementado de tal manera que el usuario no puede poner entradas incorrectas en el menú principal. Se puede visualizar la impelemtación de dichos métodos en la clase `ConsoleView.java` en el método `selectOption()`.
- - El programa ya cuenta con un bucle (while) para que el programa no finalice hasta que el usuario lo decida.
-
 ## 💻 Funcionamiento
 
  - Seleccionas el Patron Decorador que deseas, después ingresas la cadena e imprime la cadena ingresada con el Patron Decorador.
@@ -61,6 +56,10 @@ src/
 
 ![image](https://github.com/user-attachments/assets/07d3c5a1-22c7-49d6-a904-abb42db68f8c)
 
+📝Notas Adicionales
+
+ - El programa está implementado de tal manera que el usuario no puede poner entradas incorrectas en el menú principal. Se puede visualizar la impelemtación de dichos métodos en la clase `ConsoleView.java` en el método `selectOption()`.
+ - El programa ya cuenta con un bucle (while) para que el programa no finalice hasta que el usuario lo decida.
 
 ## 💻 IDE y Configuración
 
