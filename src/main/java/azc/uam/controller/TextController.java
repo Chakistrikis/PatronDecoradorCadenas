@@ -43,11 +43,11 @@ public class TextController {
                 case 3 -> {
                     StringUtil text = new StringUtil(view.inputText());
                     int length = text.getText().length();
-                    for (int i = 0; i < length + 4; i++){
+                    for (int i = 0; i < length + 2; i++){
                         System.out.print("=");
                     }
                     System.out.println("\n" + " " + text.getText() + " ");
-                    for (int i = 0; i < length + 4; i++){
+                    for (int i = 0; i < length + 2; i++){
                         System.out.print("=");
                     }
                     System.out.println("\n\n");
