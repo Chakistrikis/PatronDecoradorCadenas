@@ -4,7 +4,7 @@ import azc.uam.model.StringUtil;
 import azc.uam.view.ConsoleView;
 
 public class TextController {
-    private ConsoleView view;
+    private final ConsoleView view;
 
     public TextController(ConsoleView view) {
         this.view = view;
